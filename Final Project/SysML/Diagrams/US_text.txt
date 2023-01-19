@@ -1,0 +1,26 @@
+UC1 - Unlock Phone
+Level: User goal
+Primary Actor: User
+Pre-Condition: Phone is setup with PIN
+Main Success Scenario:
+1. User turns-on the phone
+2. User enters PIN
+3. System validates the PIN
+4. Sytem unlocks the Phone
+Post-Condition: Phone is unlocked and user uses the phone
+
+UC2 - Make a Call
+Level: User goal
+Primary Actor: User
+Pre-Condition: Phone is Unlocked
+Main Success Scenario:
+1. User selects the contact
+2. User selects to make call
+3. Phone connects the call
+Post-Condition: Phone relays to network provider and the call is connected.
+
+Justification
+This is a complete use-case because it fulfills the user's goal and encompess the primary actor, usecase level, pre-condition, primary flow and post-condition.
+
+
+
